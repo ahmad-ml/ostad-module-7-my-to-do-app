@@ -64,11 +64,6 @@
   color: white;
 }
 
-.task-list {
-  list-style: none;
-  padding: 0;
-}
-
 .task-list-item {
   margin: 10px 0;
   padding: 10px;
@@ -88,3 +83,21 @@
   cursor: pointer;
 }
 
+.task-list-item.completed span {
+  text-decoration: line-through;
+}
+
+
+.task-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+
+.completed-task {
+  text-decoration: line-through;
+}
+
+.delete-btn {
+  margin-left: auto;
+}
