@@ -1,0 +1,31 @@
+.form-container {
+    margin-bottom: 16px;
+  }
+  
+  .input-field {
+    margin-right: 8px;
+  }
+  
+  .submit-btn {
+    margin-left: 8px;
+  }
+  
+  .task-list-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
+  .task-description {
+    margin-left: 8px;
+  }
+  
+  .delete-btn {
+    margin-left: 16px;
+    padding: 4px 8px;
+  }
+  
