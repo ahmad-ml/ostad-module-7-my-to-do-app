@@ -7,7 +7,7 @@ const BASE_URL = "https://api.github.com/users";
 /** GitHub Profile Component --- shows info from GH API */
 
 function ProfileViewerWithSearch() {
-  const [username, setUsername] = useState("ahmad-ml");
+  const [username, setUsername] = useState("ahmad-ml`");
   const [profile, setProfile] = useState({ data: null, isLoading: true });
 
   useEffect(

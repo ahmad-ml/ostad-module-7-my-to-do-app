@@ -16,10 +16,10 @@ export const Footer = () => {
         </div>
         <div className="footer-social">
         <a href="https://www.linkedin.com/coolhead" target="_blank" rel="noopener noreferrer">
-    <img src="/src/assets/linkedin.png" alt="LinkedIn Icon"></img>
+    <img src="/linkedin.png" alt="LinkedIn Icon"></img>
   </a>
   <a href="https://github.com/ahmad-ml/ostad-module-7-my-to-do-app.git" target="_blank" rel="noopener noreferrer">
-    <img src="/src/assets/github.png" alt="GitHub Icon"></img>
+    <img src="/github.png" alt="GitHub Icon"></img>
   </a>
         </div>
         <div className="footer-bottom">
